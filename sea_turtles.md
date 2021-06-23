@@ -1,16 +1,5 @@
----
-title: "Endangered Species: Sea Turtles"
-author: "Vinir"
-date: "21/06/2021"
-output:
-  html_document: default
-  pdf_document: default
----
-
-_**Team members:**_
-
-- Selen Kartal
-- İpek Korkmaz
+# <b> Endangered Species: Sea Turtles </b>
+### Vinir
 
 <br>
 
